@@ -1,0 +1,40 @@
+@charset "UTF-8";
+
+/*----------------------------------------------------------------------
+
+	MASTER STYLESHEET
+
+	Project:        write as this Example:
+                    'Metronic "Aironepage" Frontend Freebie - Responsive HTML Template Based On Twitter Bootstrap 3.3.4'
+    Version:        1.0
+    Template Name:  Your website name
+    Author:         Your name
+    Website:        http://www...com
+    Email:          support@....com
+    Like:           http://www.facebook.com/...
+    Follow:         http://www.twitter.com/...
+    File:           Style CSS
+
+-----------------------------------------------------------------------*/
+
+body {
+    font-family: sans-serif
+}
+
+/* Start Framework */
+
+.uppercase {
+    text-transform: uppercase
+}
+
+.special-font {
+    font-family: monospace
+}
+
+/* End Framework */
+
+/* Start Header */
+
+.home {}
+
+/* End Header */
